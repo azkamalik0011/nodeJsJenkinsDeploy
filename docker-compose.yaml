@@ -8,4 +8,4 @@ services:
       - PORT=4040
       - MONGODB_URI="mongodb+srv://azkamalik0011:5X4ewU5DAGofKmQw@cluster0.7yhcjky.mongodb.net/new?retryWrites=true&w=majority"
     ports:
-      - "980:4040"
+      - "3001:4040"
